@@ -1,6 +1,6 @@
 RAW_DATA1
 sand
-experiments
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -60,7 +60,7 @@ mlartifacts/
 dagshub/
 
 # Model files
-*.pkl
+# *.pkl
 *.joblib
 *.h5
 *.pt
